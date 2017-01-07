@@ -9,3 +9,6 @@
 от [PADI IoT Stamp Resources – PINE64](https://www.pine64.org/?page_id=946):<br> 
 [sdk-ameba-rtl8710af-v3.5a_without_NDA_GCC_V1.0.0.zip](https://yadi.sk/d/dfIwqNkZv6m63)<br> 
 
+Максимальный [SDK для RTL8710AF, RTL8711AF, RTL8711AM](https://github.com/pvvx/RTL00MP3/tree/master/RTL00_SDKV35a)<br>
+
+
